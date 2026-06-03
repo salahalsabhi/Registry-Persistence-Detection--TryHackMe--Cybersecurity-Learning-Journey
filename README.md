@@ -125,6 +125,10 @@ The lab reinforced important defensive security concepts and strengthened my und
 **Room:** Registry Persistence Detection
 **Category:** Blue Team / DFIR / Threat Hunting
 **Difficulty:** Beginner–Intermediate
-LinkedIn:[
+
+---
+LinkedIn:[https://www.linkedin.com/feed/update/urn:li:activity:7468010781465415680/]
 X :[https://x.com/charisma1385/status/2062242593577029880]
+
+
 #TryHackMe #BlueTeam #SOCAnalyst #DFIR #DigitalForensics #ThreatHunting #CyberSecurity #IncidentResponse #WindowsSecurity #PowerShell #AutoRuns #RegistryPersistence #MalwareAnalysis #SecurityOperations #CyberDefense
